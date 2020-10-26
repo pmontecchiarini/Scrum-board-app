@@ -1,0 +1,17 @@
+.Container{
+    text-align: center;
+}
+
+h1{
+ background:url("../../assets/img/logo.svg") no-repeat ;
+ 
+}
+
+h1 span{
+    display: hidden;
+}
+
+p{
+    color: #535151;
+    font-size: 1.5rem;
+}
